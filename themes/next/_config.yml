@@ -236,9 +236,10 @@ auto_excerpt:
 
 wechat_subscriber:
   enabled: true
-  #qcode: /uploads/moon.jpg
-  qcode: https://ooo.0o0.ooo/2016/08/13/57af09975aa73.jpg
-  description: 扫一扫，订阅我的博客！
+  ## qcode: /uploads/moon.jpg
+  ## qcode: https://ooo.0o0.ooo/2016/08/13/57af09975aa73.jpg
+  qcode: http://i.imgur.com/CckUT7m.jpg
+  description: 一分钱也是钱[alipay]
 
 
 
