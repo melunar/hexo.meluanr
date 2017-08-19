@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: pure youth - country‘s flower
-subtitle: Do Not Miss Mr.Good
+title: hoooy
+subtitle: 
 description:
 author: melunar
 language: zh-Hans
@@ -84,6 +84,3 @@ feed:
   path: atom.xml
   limit: 20
   hub:
-
-# 多说分享
-# duoshuo_share: true
