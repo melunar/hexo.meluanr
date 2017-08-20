@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: hoooy
+title: hooy
 subtitle: 
 description:
 author: melunar
@@ -72,7 +72,7 @@ deploy:
   repository: https://github.com/melunar/melunar.github.io.git
 
 # 搜索插件 hexo-generator-sitemap
-swiftype_key: YAMT3gHpk9QeRznghQxP
+# swiftype_key: YAMT3gHpk9QeRznghQxP
 
 search:
   path: search.xml
