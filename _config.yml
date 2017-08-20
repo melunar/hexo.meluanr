@@ -84,3 +84,10 @@ feed:
   path: atom.xml
   limit: 20
   hub:
+
+disqus_shortname: hooy
+
+disqus:
+  enable: true
+  shortname: hooy    #your name
+  count: true

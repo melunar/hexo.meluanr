@@ -21,6 +21,8 @@ rss: /atom.xml
 # Tips: Before you open this tag, remeber set up your URL in hexo _config.yml ( ex. url: http://yourdomain.com )
 canonical: true
 
+disqus: hooy
+
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -235,11 +237,11 @@ auto_excerpt:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 wechat_subscriber:
-  enabled: true
+  enabled: false
   ## qcode: /uploads/moon.jpg
   ## qcode: https://ooo.0o0.ooo/2016/08/13/57af09975aa73.jpg
-  qcode: http://i.imgur.com/CckUT7m.jpg
-  description: 一分钱也是钱[alipay]
+  ## qcode: http://i.imgur.com/CckUT7m.jpg
+  ## description: 一分钱也是钱[alipay]
 
 
 
@@ -261,10 +263,12 @@ swiftype_key: YAMT3gHpk9QeRznghQxP
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: melunar
+# duoshuo_shortname: melunar
+
+# comment_provider: disqus
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: hooy
 
 # Baidu Share
 # Available value:
@@ -277,7 +281,7 @@ duoshuo_shortname: melunar
 #add_this_id:
 
 # Share
-duoshuo_share: true
+# duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
@@ -296,7 +300,7 @@ duoshuo_share: true
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 # 暂且使用QQ登录的多说
 duoshuo_info:
-  ua_enable: true
+  ua_enable: filename_case
   admin_enable: false
   user_id: 6281022413748569000
   #admin_nickname: 好啊
