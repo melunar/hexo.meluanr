@@ -21,9 +21,6 @@ rss: /atom.xml
 # Tips: Before you open this tag, remeber set up your URL in hexo _config.yml ( ex. url: http://yourdomain.com )
 canonical: true
 
-disqus: hooy
-
-
 # ---------------------------------------------------------------
 # Menu Settings
 # ---------------------------------------------------------------
@@ -268,7 +265,7 @@ mathjax:
 # comment_provider: disqus
 
 # Disqus
-disqus_shortname: hooy
+# disqus_shortname: hooy
 
 # Baidu Share
 # Available value:
@@ -299,10 +296,10 @@ disqus_shortname: hooy
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 # 暂且使用QQ登录的多说
-duoshuo_info:
-  ua_enable: filename_case
-  admin_enable: false
-  user_id: 6281022413748569000
+# duoshuo_info:
+  # ua_enable: filename_case
+  # admin_enable: false
+  # user_id: 6281022413748569000
   #admin_nickname: 好啊
 
 
