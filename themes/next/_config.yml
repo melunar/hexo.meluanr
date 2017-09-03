@@ -33,7 +33,7 @@ menu:
   tags: /tags
   #music: /music
   #life: /life
-  word: /word
+  # word: /word
   about: /about
   advertisement: /advertisement
   # commonweal: /404.html
@@ -56,7 +56,7 @@ menu_icons:
   commonweal: heartbeat
   music: music
   life: group
-  word: comments
+  # word: comments
   advertisement: rss
 
 
@@ -353,7 +353,7 @@ baidu_push: false
 
 ## 文章末尾显示打赏按钮  alipay: 填写的是支付宝或者微信的收款二维码图片地址。
 reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
-alipay: http://i.imgur.com/CckUT7m.jpg
+alipay: https://raw.githubusercontent.com/melunar/_libs/master/__images/alipay.jpg
 
 
 #! ---------------------------------------------------------------
